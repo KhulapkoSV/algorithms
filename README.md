@@ -11,7 +11,6 @@ Brief content (can be changed):
 8. Greedy algorithm
 9. K-means algorithm
 ********************
-# Difficulty of the algorithms
 
 <img src="https://netseedblog.com/wp-content/uploads/2019/03/Big-O-Notation.png" alt="Drawing" style="width: 100px;"/>
 
