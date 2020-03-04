@@ -10,6 +10,7 @@ Brief content (can be changed):
 7. Dijkstra's algorithm
 8. Greedy algorithm
 9. K-means algorithm
+10
 ********************
 
 <img src="https://netseedblog.com/wp-content/uploads/2019/03/Big-O-Notation.png" alt="Drawing" style="width: 100px;"/>
